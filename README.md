@@ -9,7 +9,7 @@ hidden by using .dotenv package.
 User information gets processed in the back-end and then being sent to Mailchimp
 servers with HTTP request. 
 
-Great project to learn how to work with external APIs.
+A great project to learn how to work with external APIs.
 
 You can view the deployment here:
 
